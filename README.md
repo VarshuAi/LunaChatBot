@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Just Another Telegram Ai Chat Bot Written In Python With Pyrogram.
+  name: LunaChatBot version: 1.0 type: Repository author: VarshuAi description: >   Just Another Telegram Ai Chat Bot Written In Python With Pyrogram. primary_tech: Python
 primary_tech: Python
 ```
 
